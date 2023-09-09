@@ -38,8 +38,3 @@ These rules are an extension of Discord’s Terms of Service and Community Guide
 \`\`\`language  
 Code here...  
 \`\`\` 
-
-If you do not follow the above rules, you will get muted, kicked, or banned.
-
-Note: We reserve the permission to update rules without notice. Big updates will be announced on ⁠#📢┃announcements 
-
